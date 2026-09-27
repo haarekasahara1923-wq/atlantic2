@@ -65,8 +65,8 @@ export default function Home() {
             🏆 &nbsp; Affiliated & Recognized School — Gwalior, MP
           </div>
           <h1 className={`${styles.heroSchoolName} animate-fade-in-2`} style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
-            <span>Firststeps</span>
-            <span style={{ fontSize: '0.45em', letterSpacing: '4px', fontWeight: 600, marginTop: '5px' }}>Excellence Academy</span>
+            <span>Atlantic</span>
+            <span style={{ fontSize: '0.45em', letterSpacing: '4px', fontWeight: 600, marginTop: '5px' }}>Public School</span>
           </h1>
           <p className={`${styles.heroTagline} animate-fade-in-2`}>
             ✦ Empowering Minds &nbsp;·&nbsp; Shaping Futures &nbsp;·&nbsp; Building Leaders ✦
@@ -119,7 +119,7 @@ export default function Home() {
             A Legacy of <span className="gradient-text">Excellence</span> in Education
           </h2>
           <p className={styles.aboutPara}>
-            At Firststeps Excellence Academy, we believe every child is a unique gift. With a holistic approach — blending academic rigor, cultural values, and modern innovation, we nurture every student to reach their full potential.
+            At Atlantic Public School, we believe every child is a unique gift. With a holistic approach — blending academic rigor, cultural values, and modern innovation, we nurture every student to reach their full potential.
           </p>
           <p className={styles.aboutPara}>
             Our dedicated faculty, state-of-the-art facilities, and vibrant co-curricular programs ensure that every student reaches their full potential and steps out as a confident, compassionate global citizen.
@@ -131,7 +131,7 @@ export default function Home() {
         <div className={`${styles.aboutImageWrap} animate-slide-right`}>
           <img
             src="/images/about_kids.jpg"
-            alt="School Activities & Events at Firststeps Excellence Academy"
+            alt="School Activities & Events at Atlantic Public School"
             className={styles.aboutImg}
           />
           <div className={styles.aboutImageBadge}>

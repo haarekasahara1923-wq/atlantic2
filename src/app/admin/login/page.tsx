@@ -75,7 +75,7 @@ export default function AdminLogin() {
           Admin Portal
         </h1>
         <p style={{ textAlign: 'center', marginBottom: '32px', color: '#767676', fontSize: '0.9rem' }}>
-          Firststeps Excellence Academy
+          Atlantic Public School
         </p>
 
         {error && (

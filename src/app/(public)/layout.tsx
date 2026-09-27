@@ -28,7 +28,7 @@ export default async function PublicLayout({
     // fallback to default announcement
   }
   if (announcementTexts.length === 0) {
-    announcementTexts = ["Welcome to Firststeps Excellence Academy — Admissions Open 2025-26!"];
+    announcementTexts = ["Welcome to Atlantic Public School — Admissions Open 2025-26!"];
   }
 
   try {
@@ -48,11 +48,11 @@ export default async function PublicLayout({
   }
 
 
-  const schoolName = settingsMap["school_name"] || "Firststeps Excellence Academy";
+  const schoolName = settingsMap["school_name"] || "Atlantic Public School";
   const tagline = settingsMap["school_tagline"] || "Empowering Minds · Shaping Futures · Building Leaders";
   const logoUrl = settingsMap["school_logo_url"] || "";
   const phone = contact?.phone || "07513164168";
-  const email = contact?.email || "firststepsexcellenceacademy@gmail.com";
+  const email = contact?.email || "Atlanticexcellenceacademy@gmail.com";
   const address = contact?.address || "GH-1744, Gate No.-2, D.D.Nagar, Gwalior (MP)";
 
   return (

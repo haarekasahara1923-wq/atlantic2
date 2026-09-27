@@ -1,5 +1,5 @@
 .footer {
-  background: linear-gradient(160deg, #050a23 0%, #0f2460 50%, #1a3a8f 100%);
+  background: #800000;
   color: rgba(255,255,255,0.88);
   padding: 80px 6% 0;
   margin-top: auto;
@@ -12,7 +12,7 @@
   position: absolute;
   top: 0; left: 0; right: 0;
   height: 3px;
-  background: linear-gradient(90deg, #4a90d9, #c0c8e8, #ffffff, #4a90d9);
+  background: #ffffff;
   background-size: 300% 100%;
   animation: shimmer 4s linear infinite;
 }
@@ -23,7 +23,7 @@
   bottom: 0; right: -100px;
   width: 400px;
   height: 400px;
-  background: radial-gradient(circle, rgba(74,144,217,0.10), transparent 70%);
+  background: radial-gradient(circle, rgba(255,255,255,0.10), transparent 70%);
   pointer-events: none;
 }
 

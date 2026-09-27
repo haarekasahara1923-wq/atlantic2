@@ -11,7 +11,7 @@ export default function AdminSettings() {
   const fileInputRef = useRef<HTMLInputElement>(null);
 
   const defaultSettings = [
-    { key: "school_name", label: "School Name", placeholder: "Atlantic-2 School" },
+    { key: "school_name", label: "School Name", placeholder: "Atlantic Public School School" },
     { key: "school_tagline", label: "School Tagline", placeholder: "Nurturing Minds, Building Futures" },
     { key: "established_year", label: "Established Year", placeholder: "1990" },
     { key: "principal_name", label: "Principal Name", placeholder: "Dr. XYZ" },

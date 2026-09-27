@@ -5,9 +5,9 @@ import styles from "./contact.module.css";
 export default function ContactPage() {
   const [phone, setPhone] = useState("07513164168");
   const [whatsapp, setWhatsapp] = useState("917697276999");
-  const [email, setEmail] = useState("firststepsexcellenceacademy@gmail.com");
+  const [email, setEmail] = useState("Atlanticexcellenceacademy@gmail.com");
   const [address, setAddress] = useState(
-    "Firststeps Excellence Academy, GH-1744, Gate No.-2, D.D.Nagar, Gwalior (MP)"
+    "Atlantic Public School, GH-1744, Gate No.-2, D.D.Nagar, Gwalior (MP)"
   );
   const [mapUrl, setMapUrl] = useState(
     "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14316.517336782298!2d78.22687135!3d26.22495865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3976c6b3e9458fcd%3A0xc6651261d7b05615!2sMorar%2C%20Gwalior%2C%20Madhya%20Pradesh!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
