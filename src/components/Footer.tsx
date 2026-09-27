@@ -11,11 +11,11 @@ interface FooterProps {
 }
 
 export default function Footer({
-  schoolName = "Atlantic-2 School",
+  schoolName = "Atlantic Public School",
   tagline = "Empowering Minds · Shaping Futures · Building Leaders",
-  address = "Factory Road, Pinto Park, Gwalior",
-  phone = "918962678915",
-  email = "atlantic2@gmail.com",
+  address = "Near Shiv Mandir, Chakra Wali Mata, Road,Pinto Park Gwalior",
+  phone = "917987711981",
+  email = "atlanticpublicschool2015@gmail.com",
   logoUrl,
 }: FooterProps) {
   return (

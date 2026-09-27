@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&family=Playfair+Display:wght@400;700&family=Noto+Sans+Devanagari:wght@400;500;600&display=swap');
 
 :root {
-  --primary:       #FFFF00;
-  --primary-color: #FFFF00;
-  --primary-hover: #E6E600;
-  --primary-dark:  #CCCC00;
-  --secondary:     #FF0033;
-  --secondary-color: #FF0033;
-  --accent:        #FFFF00;
-  --gold:          #CCFF00;
+  --primary:       #800000;
+  --primary-color: #800000;
+  --primary-hover: #990000;
+  --primary-dark:  #660000;
+  --secondary:     #FFFFFF;
+  --secondary-color: #FFFFFF;
+  --accent:        #800000;
+  --gold:          #990000;
   --bg:            #F8FAFC;
   --bg-dark:       #0A192F;
   --surface:       #FFFFFF;

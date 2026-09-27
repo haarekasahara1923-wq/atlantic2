@@ -12,8 +12,8 @@ interface HeaderProps {
 }
 
 export default function Header({ 
-  phone = "918962678915", 
-  schoolName = "Atlantic-2 School",
+  phone = "917987711981", 
+  schoolName = "Atlantic Public School",
   logoUrl 
 }: HeaderProps) {
   const pathname = usePathname();

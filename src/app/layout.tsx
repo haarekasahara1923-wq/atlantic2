@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Atlantic-2 School, Gwalior",
-  description: "Official website of Atlantic-2 School, Factory Road, Pinto Park, Gwalior",
+  title: "Atlantic Public School, Gwalior",
+  description: "Official website of Atlantic Public School, Near Shiv Mandir, Chakra Wali Mata, Road,Pinto Park Gwalior",
 };
 
 export default function RootLayout({

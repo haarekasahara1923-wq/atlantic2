@@ -19,9 +19,9 @@ export default function LeadForm({ isOpen, onClose }: Props) {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    const whatsappNumber = process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || "918962678915";
+    const whatsappNumber = process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || "917987711981";
     
-    const message = `Hello Atlantic-2 School,
+    const message = `Hello Atlantic Public School,
 I am interested in reaching out.
 
 *Name:* ${formData.name}
