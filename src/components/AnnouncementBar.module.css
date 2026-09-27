@@ -1,6 +1,6 @@
 /* ===== ANNOUNCEMENT TICKER ===== */
 .tickerWrapper {
-  background: linear-gradient(135deg, #1C1208, #3D2010);
+  background: #800000;
   color: var(--white);
   padding: 0;
   overflow: hidden;
@@ -19,7 +19,7 @@
   top: 0;
   bottom: 0;
   padding: 0 20px;
-  background: linear-gradient(135deg, var(--secondary), #8B0000);
+  background: #800000;
   font-family: var(--font-heading);
   font-size: 0.7rem;
   font-weight: 700;
@@ -38,7 +38,7 @@
   top: 0;
   bottom: 0;
   width: 40px;
-  background: linear-gradient(to right, #1C1208, transparent);
+  background: linear-gradient(to right, #800000, transparent);
   z-index: 1;
   pointer-events: none;
 }

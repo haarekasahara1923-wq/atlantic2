@@ -1,6 +1,6 @@
 .sidebar {
   width: 250px;
-  background-color: var(--bg-dark, #1A1A2E);
+  background-color: #800000;
   color: var(--white, #FFFFFF);
   height: 100vh;
   position: sticky;
@@ -40,7 +40,7 @@
 .link:hover, .active {
   background-color: rgba(255,255,255,0.1);
   color: var(--white, #FFFFFF);
-  border-left: 4px solid var(--primary, #E67E22);
+  border-left: 4px solid #ffffff;
 }
 
 .logoutBtn {
@@ -62,8 +62,8 @@
 
 .manageSchoolBtn {
   padding: 12px 20px;
-  background-color: var(--primary, #E67E22);
-  color: #000000;
+  background-color: #ffffff;
+  color: #800000;
   text-align: center;
   font-weight: bold;
   text-decoration: none;
@@ -74,7 +74,7 @@
 }
 
 .manageSchoolBtn:hover {
-  background-color: #d67118;
+  background-color: #e0e0e0;
   transform: translateY(-2px);
 }
 
@@ -84,7 +84,7 @@
   top: 20px;
   right: 20px;
   z-index: 1001;
-  background: var(--bg-dark, #1A1A2E);
+  background: #800000;
   color: white;
   border: none;
   border-radius: 6px;

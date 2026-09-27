@@ -51,7 +51,7 @@
   font-weight: 700;
   letter-spacing: 1.5px;
   text-transform: uppercase;
-  color: var(--accent);
+  color: #ffffff;
   margin-bottom: 22px;
   position: relative;
   display: inline-block;
@@ -64,7 +64,7 @@
   left: 0;
   width: 28px;
   height: 2px;
-  background: linear-gradient(90deg, var(--primary), var(--accent));
+  background: #ffffff;
   border-radius: 2px;
 }
 
@@ -94,13 +94,13 @@
 .footerLink::before {
   content: '→';
   font-size: 0.8rem;
-  color: var(--accent);
+  color: #ffffff;
   transition: var(--transition);
 }
 
 .footerLink:hover {
   opacity: 1;
-  color: var(--accent);
+  color: #ffffff;
   padding-left: 4px;
 }
 
@@ -116,7 +116,7 @@
 }
 
 .footerText a:hover {
-  color: var(--accent);
+  color: #ffffff;
 }
 
 .copyright {
