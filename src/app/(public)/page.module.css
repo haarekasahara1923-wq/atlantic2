@@ -45,7 +45,7 @@
 
 .heroSchoolName {
   font-family: var(--font-heading);
-  font-size: clamp(3.2rem, 9vw, 7rem);
+  font-size: clamp(4rem, 11vw, 9rem);
   font-weight: 800;
   color: var(--white);
   margin-bottom: 16px;
