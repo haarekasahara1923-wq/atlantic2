@@ -65,7 +65,7 @@ export default function AdminSidebar({ logoUrl }: { logoUrl?: string }) {
         </nav>
 
         <a
-          href="https://schoolpro.wapiflow.site"
+          href="https://erp-chi-teal.vercel.app"
           target="_blank"
           rel="noopener noreferrer"
           className={styles.manageSchoolBtn}
