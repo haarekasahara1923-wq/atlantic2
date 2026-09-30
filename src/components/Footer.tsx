@@ -28,7 +28,7 @@ export default function Footer({
               alt={`${schoolName} Logo`} 
               style={{ width: '180px', height: '68px', borderRadius: '8px', objectFit: 'contain' }}
             />
-
+            <span style={{ fontSize: '1.25rem', fontWeight: 800, color: '#ffffff' }}>ATLANTIC PUBLIC SCHOOL</span>
           </div>
           <p className={styles.footerText}>{tagline}</p>
         </div>

@@ -36,7 +36,7 @@ export default function Header({
           alt={`${schoolName} Logo`} 
           style={{ width: '170px', height: '64px', borderRadius: '8px', objectFit: 'contain' }}
         />
-
+        <span className={styles.schoolName}>ATLANTIC PUBLIC SCHOOL</span>
       </Link>
 
       <nav className={`${styles.nav} ${isMobileMenuOpen ? styles.navOpen : ''}`}>
